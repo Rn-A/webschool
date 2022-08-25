@@ -1,0 +1,124 @@
+.header-topbar {
+  background: linear-gradient(to bottom right, #6889ff, #c668ff);
+}
+/*css home.php*/
+.navbar-light .navbar-toggler {
+  border: 1px solid black;
+}
+.slider-btn {
+  text-align: center;
+  margin: 100px 0 0;
+}
+.carousel-indicators {
+  bottom: -10px;
+}
+.about {
+  background: #b3e5fc;
+}
+.our_courses {
+  background: #b3e5fc;
+  background: linear-gradient(
+    to bottom right,
+    #dd95f7 0%,
+    #9aadf9 50%,
+    #7fc9d9 100%
+  );
+}
+.event {
+  background: #b3e5fc;
+}
+.foot {
+  background: linear-gradient(to bottom right, #6889ff, #c668ff);
+}
+.sitemap ul li a {
+  color: rgb(37, 37, 37);
+}
+.sitemap ul li a:hover {
+  color: aliceblue;
+}
+.icon-menu {
+  color: black;
+}
+.header-top_address .header-top_list span {
+  color: black;
+}
+.nav-menu2 .navbar-light .navbar-nav .nav-link:hover {
+  color: cornflowerblue;
+}
+.fa-slider {
+  padding: 14px 14px;
+  border: none;
+}
+.btn-default {
+  border: 3px solid cornflowerblue;
+  color: #fff;
+  border-radius: 10px;
+}
+.btn-default:hover {
+  background-color: rgb(4, 22, 56);
+  border: 3px solid #fff;
+  border-radius: 10px;
+}
+.carousel-indicators .active {
+  background: #fff;
+}
+
+/*css about.php*/
+.quote i {
+  border: 2px solid cornflowerblue;
+}
+.welcome_about {
+  background: linear-gradient(
+    to bottom right,
+    #dd95f7 0%,
+    #9aadf9 50%,
+    #7fc9d9 100%
+  );
+}
+.fa-quote-left:before {
+  content: "\f10d";
+  color: cornflowerblue;
+}
+.quote .quote_text:before,
+.quote .quote_text:after {
+  color: cornflowerblue;
+}
+.testi-img_block p span {
+  color: cornflowerblue;
+}
+.slick-dots li button:before {
+  border: 2px solid cornflowerblue;
+}
+.slick-dots li.slick-active button:before {
+  color: cornflowerblue;
+}
+/*blog.php*/
+.btn .btn-warning .btn-blogsearch {
+  border-radius: 20px;
+}
+.blog-search {
+  border-radius: 20px;
+}
+/*guru.php*/
+.our-teachers {
+  background: linear-gradient(
+    to bottom right,
+    #dd95f7 0%,
+    #9aadf9 50%,
+    #7fc9d9 100%
+  );
+}
+.admission_insruction {
+  padding: 0px 0 0;
+  margin-bottom: 30px;
+  border-radius: 0px 0px 20px 20px;
+  background: rgb(252, 252, 252);
+  border: 1px solid black;
+}
+.admission_insruction p span {
+  color: rgb(97, 96, 96);
+}
+/*pengumuman*/
+.events {
+  background: #b3e5fc;
+}

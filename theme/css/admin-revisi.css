@@ -1,0 +1,36 @@
+/* login.php*/
+.login-box-msg img {
+  width: 200px;
+  margin-left: -5px;
+}
+.checkbox,
+.radio {
+  margin-left: 20px;
+}
+.btn.btn-flat {
+  border-radius: 20px;
+  border: 1px solid #000;
+}
+.btn.btn-flat:hover {
+  background: rgb(4, 22, 56);
+}
+.btn-primary {
+  background-color: cornflowerblue;
+}
+.btn-primary:hover {
+  background-color: dodgerblue;
+}
+.login-box-body,
+.register-box-body {
+  border-radius: 15px;
+  padding: 50px;
+}
+/* dashboard.php*/
+.skin-blue .main-header .logo {
+  background-color: #b3e5fc;
+}
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+  background: #b3e5fc;
+}
