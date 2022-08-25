@@ -159,7 +159,7 @@
                             <p class="quote_text">MSCHOOL benar-benar mengagumkan. Saya sangat senang bisa bergabung dengan MSCHOOL dan menjadi siswa terbaik tahun 2017. </p>
                             <div class="testi-img_block">
                                 <img src="<?php echo base_url().'theme/images/student-2.png'?>" class="img-fluid" alt="#">
-                                <p><span><b>Elanoar Rigby</b></span>Siswa Terbaik 2017</p>
+                                <p><span><b>Elanoar Rigby</b></span>Siswa Terbaik 2018</p>
                             </div>
                         </div>
                     </div>
